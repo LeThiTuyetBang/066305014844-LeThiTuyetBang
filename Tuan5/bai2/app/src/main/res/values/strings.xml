@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UTH Smart Tasks</string>
+
+    <!-- Google Login -->
+    <string name="default_web_client_id">
+        911495536517-1eukrc8d9nlhj2nidgcsddquoar957s7.apps.googleusercontent.com
+    </string>
+
+    <!-- Facebook Login -->
+    <string name="facebook_app_id">870108225341893</string>
+    <string name="fb_login_protocol_scheme">fb870108225341893</string>
+    <string name="facebook_client_token">200c4ac165ce12754127034cf2eb0a98</string>
+</resources>
